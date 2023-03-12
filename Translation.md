@@ -8,7 +8,7 @@ Lectures - Лекции
 
 
                                 O
-Operating Systems and Virtualization  - Операционные системы и виртуализация 
+Operating Systems and Virtualization (Linux)  - Операционные системы и виртуализация (Linux) 
 
                                 T
 Teams - Команды
