@@ -10,6 +10,8 @@ Lectures - Лекции
                                 O
 Operating Systems and Virtualization (Linux)  - Операционные системы и виртуализация (Linux) 
 
+                                R
+Readme - Прочитай меня
                                 T
 Teams - Команды
 Terminal - Терминал
