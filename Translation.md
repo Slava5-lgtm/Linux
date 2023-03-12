@@ -12,4 +12,5 @@ Operating Systems and Virtualization (Linux)  - Операционные сис�
 
                                 T
 Teams - Команды
+Terminal - Терминал
 Translation - Перевод
