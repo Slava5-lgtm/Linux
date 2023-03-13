@@ -1,5 +1,6 @@
-Lectures -1                                     -   Operating Systems and Virtualization  - (Операционны 
-                                                    системы и виртуализация)
+                            Операционные системы и виртуализация (Linux)
+
+Lectures -1                                         -   Урок 1. Основы Linux. Установка системы
                                                         -   Readme
                                                         -   VirtualBox  (Настройка виртуальной машины)
                                                         -   Terminal
