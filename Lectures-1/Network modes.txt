@@ -23,6 +23,7 @@ VirtualBox переходим в Настройки -> Сеть (Тип Подк
 Есть еще один способ. Терминал -> ip a (нас интерисует 2: enp0s3 inet 192.168.0.102)-> Далее проверяем
 работает у нас open ssh server (командой - systemctl status server) что бы подключиться по ssh server
 переходим в -> Windows PowerShell -> и вводим команду (ssh логин@Адрес Ipv4) -> exit (выход из консоли)
+-> переходим в Guest additions
 
                                 Подключения NAT  
 

@@ -3,7 +3,7 @@
 наши гостевые пакета идем в програму Ubuntu-linux [Работает] Oracle VM VirtualBox в Устройства (Подключить
 оброз диска Дополнителной гостевой ОС...(к машине подключаеться диск (находиться на левой стороне
 Виртуальной машины заходим в него))) -> папка (autorun.sh(правая кнопка мыши(Запустить как приложение())))
--> Посде устоновки должен быть следуший текст (Running kernel modules will not be replaced until the
+-> После устоновки должен быть следуший текст (Running kernel modules will not be replaced until the
 system is restarted (Press Return to close this window)) -> Enter -> Извлекаем диск из привода (IDE) ->
 Желаю -> Windows PowerShell и отпровляем в пеезогрузку командой (sudo reboot)
 
