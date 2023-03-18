@@ -17,6 +17,8 @@ Operating Systems and Virtualization (Linux)  - Операционные сис�
 
                                 R
 Readme - Прочитай меня
+                                S
+Seminar - Семинар
                                 T
 Teams - Команды
 Terminal - Терминал
