@@ -3,4 +3,7 @@
 
 Lecture - 1                         Урок 1. Основы Linux. Установка системы
                                             VirtualBox
-                                            Terminal 
+                                            Terminal
+                                            Network modes
+                                                Меняем сетевые настройки Сетевое подключения
+                                                Подключения NAT 
