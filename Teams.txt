@@ -26,6 +26,4 @@ git remote add repository link - Вместо repository указывается 
                                   Вместо link указывается ссылка на удаленный репозиторий. Ее вид зависит от протокола доступа — это может быть как HTTPS, так и SSH
 git push --set-upstream Linux main - вместо Linux имя удоленого репозитория
 
-Когда репозиторий создан работаем только этой командой git push --set-upstream Linux main
-
-
+Когда репозиторий создан работаем только этой командой git push --set-upstream (имя удоленого репозитория) main
