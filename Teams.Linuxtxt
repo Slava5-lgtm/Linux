@@ -1,0 +1,3 @@
+sudo apt update - обновить список пакетов 
+sudo apt install mc - устоновить пакет mc
+sudo apt install openssh-server - устоновить SSH-сервер
