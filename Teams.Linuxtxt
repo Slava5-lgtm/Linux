@@ -1,4 +1,5 @@
 ssh lecsion@192.168.0.107 подключения в винде PowerShel (lecsion) виртуальная машина должа быть включена
+# - ЗТО КОМЕНТАРИЙ все что после не обробатываеться 
 sudo apt update - обновить список пакетов 
 sudo apt install mc - устоновить пакет mc
 sudo apt install openssh-server - устоновить SSH-сервер
